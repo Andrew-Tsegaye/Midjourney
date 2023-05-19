@@ -19,10 +19,10 @@ MidJourney has different model versions, and users can choose to specify startin
 ## Technologies Used
 The application was built using the following technologies:
 
-- HTML
-- CSS
-- JavaScript
-- Vite
+- HTML5
+- CSS3
+- JavaScript {No Framework/Library}
+- Vite | Module bundler
 - OpenAI's GPT-4 API
 
 ## Installation
